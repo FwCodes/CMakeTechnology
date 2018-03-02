@@ -353,7 +353,7 @@ public class MainScreen extends ApplicationScreen {
         if (!unlockAllPurchased)
             createBillingHandler();
 
-        // Billing ++++++++++++++
+        // Billing +++++++++++++
 
         // application rating helper
         AppRater.app_launched(this);
